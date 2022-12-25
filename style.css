@@ -1,0 +1,40 @@
+.container{
+    margin-top: 30px;
+    background: rgb(204, 168, 234)
+    }
+
+#main_heading{
+    text-align: center;
+}
+
+#sub_button{
+    display: flex;
+    margin: 30px auto;
+    border: 1px solid white;
+}
+
+#checkbox{
+    margin-left: 30px;
+    margin-top: 40px;
+}
+
+#radiobox{
+    margin-top: 40px;
+}
+
+#choosefile{
+    margin-top: 40px; 
+    margin-left: 20px;
+}
+
+#emailcheck{
+    color: red;
+}
+
+#dropDown{
+    margin: 20px;
+}
+#dropcheck{
+color: red;
+
+}
